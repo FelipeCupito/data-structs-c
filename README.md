@@ -1,6 +1,6 @@
 # data-structs-c
 
-`data-structs-c` es un proyecto que reúne una colección de implementaciones de estructuras de datos en el lenguaje de programación C. El objetivo de este repositorio es proporcionar implementaciones claras, eficientes y bien documentadas de diversas estructuras de datos, facilitando su uso y estudio tanto para estudiantes como para desarrolladores.
+`data-structs-c` es un proyecto que reúne una colección de implementaciones de estructuras y tipos de datos en el lenguaje de programación C. El objetivo de este repositorio es proporcionar implementaciones claras, eficientes y bien documentadas de diversas estructuras y tipos de datos, facilitando su uso y estudio tanto para estudiantes como para desarrolladores.
 
 ## Estructuras de Datos Incluidas
 
